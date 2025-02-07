@@ -1,0 +1,938 @@
+match01_paddle_output/frame_0629.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG A 0 
+match01_paddle_output/frame_0630.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG A 0 
+match01_paddle_output/frame_0631.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0634.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0636.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0640.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0644.jpg:TOMOKAZUHARIMOTO O 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0645.jpg:TOMOKAZUHARIMOTO O 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0646.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0648.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0649.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0650.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0654.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0655.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0656.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0661.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0662.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0663.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0666.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0669.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0670.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0672.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0673.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0674.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0675.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0676.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0677.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0679.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0680.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0683.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG D O 
+match01_paddle_output/frame_0684.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0686.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0687.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0688.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0691.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0692.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0693.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0694.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0695.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0696.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0697.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0698.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0700.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0701.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0702.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0706.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0707.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_0708.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0715.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 O 
+match01_paddle_output/frame_0716.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0717.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0718.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0719.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0720.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0721.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0722.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0723.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0727.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0728.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0729.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0735.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0736.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0739.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0740.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0741.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0742.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0743.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0744.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0745.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0746.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0747.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0748.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0749.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0750.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0751.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0752.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0753.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0754.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0755.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0756.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0761.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0763.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0764.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0765.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0766.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0767.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_0772.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG A 0 
+match01_paddle_output/frame_0773.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0774.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0775.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0778.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0780.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0781.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0782.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0783.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0784.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0785.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0790.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0791.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0792.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0793.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0794.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0795.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0796.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0797.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0798.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0802.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0804.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0805.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0806.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0807.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0808.jpg:TOMOKAZUHARIMOTO 1 LIN SHIDONG 0 0 4 
+match01_paddle_output/frame_0809.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_0812.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG A 0 
+match01_paddle_output/frame_0813.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG A 0 
+match01_paddle_output/frame_0814.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0816.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0820.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0822.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0823.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0825.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0827.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0828.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0829.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0830.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0831.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0832.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0833.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0834.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0835.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0836.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0837.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0839.jpg:TOMOKAZU HARIMOTO 1 LIN SHIDONG 0 0 A 
+match01_paddle_output/frame_0840.jpg:TOMOKAZU HARIMOTO 1 LIN SHIDONG 0 0 A 
+match01_paddle_output/frame_0841.jpg:TOMOKAZU HARIMOTO 1 LIN SHIDONG 0 0 A 
+match01_paddle_output/frame_0842.jpg:TOMOKAZU HARIMOTO 1 LIN SHIDONG 0 0 A 
+match01_paddle_output/frame_0843.jpg:TOMOKAZU HARIMOTO 1 LIN SHIDONG 0 0 A 
+match01_paddle_output/frame_0844.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0845.jpg:TOMOKAZU HARIMOTO 1 LIN SHIDONG 0 0 A 
+match01_paddle_output/frame_0848.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0849.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0853.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0854.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0855.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0856.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0862.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0878.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0879.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0880.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0881.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0882.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0883.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0884.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0885.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0886.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0887.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0888.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0889.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0890.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0891.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0892.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0893.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0894.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0895.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0896.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0897.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0898.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0899.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0900.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0901.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0902.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0903.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0904.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0906.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0907.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0908.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0909.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0910.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0911.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0912.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0913.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0914.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0915.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0916.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0917.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0918.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0919.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0920.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0921.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_0922.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0923.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0924.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0928.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0929.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0930.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0931.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0932.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0933.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0934.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0935.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0936.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0937.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0940.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0941.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0942.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0943.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG D 0 
+match01_paddle_output/frame_0944.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0945.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0946.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG A 0 
+match01_paddle_output/frame_0948.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0949.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 0 
+match01_paddle_output/frame_0951.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0952.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0953.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0956.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0957.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0958.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0959.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0960.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0962.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0963.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0964.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0965.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0966.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0967.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0968.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0969.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0970.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0971.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0972.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0975.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0976.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0977.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0978.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 - 
+match01_paddle_output/frame_0979.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 - 
+match01_paddle_output/frame_0980.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0981.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0982.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0983.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0984.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0985.jpg:TOMOKAZU HARIMOTOA 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0986.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0987.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0988.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0989.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0990.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0991.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0992.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0993.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0994.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0995.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0996.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0997.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0998.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_0999.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1000.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1001.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1002.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1003.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1004.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1005.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1006.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1007.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1008.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1009.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1010.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1011.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1012.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1013.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1014.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1015.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1016.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1017.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1018.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1019.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1020.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1021.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1022.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1023.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1024.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1025.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1026.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1027.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1028.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1029.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1030.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1031.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1032.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1033.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1034.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1035.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1036.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1037.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1038.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1039.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1040.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1041.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1042.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1043.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1044.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1045.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1046.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1047.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1048.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1049.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1050.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1051.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1052.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1053.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1054.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1055.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1056.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1057.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1058.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1059.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1060.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1061.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1062.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1063.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1064.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1065.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1066.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1067.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1068.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1069.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1070.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1071.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1072.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1073.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1074.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1075.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1076.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1077.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1078.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1079.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1080.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1081.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1082.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1083.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1084.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1085.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1086.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1087.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1088.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1089.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1090.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1091.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1092.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1093.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1094.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1095.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1096.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1097.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1098.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1100.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1101.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1102.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1103.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1104.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1105.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1106.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1107.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1108.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1109.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1110.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1111.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1112.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1113.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1114.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1115.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1116.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1117.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1118.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1119.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1120.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1121.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1123.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1124.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1125.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1126.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1127.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1128.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1131.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1132.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1133.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1134.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1136.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1140.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1142.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 - 
+match01_paddle_output/frame_1143.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1149.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1153.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1155.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1156.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1157.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1158.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1159.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 - 
+match01_paddle_output/frame_1161.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1162.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1165.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1166.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1167.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 DOKEUO 
+match01_paddle_output/frame_1172.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG Q 1 
+match01_paddle_output/frame_1173.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1174.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1175.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1176.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1177.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1178.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG Q 1 
+match01_paddle_output/frame_1179.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1186.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG D 1 
+match01_paddle_output/frame_1190.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1191.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1192.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1196.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1197.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1198.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1199.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1200.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1201.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1204.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1205.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1206.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1217.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1218.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1231.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1232.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1233.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1234.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1235.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1236.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1238.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1240.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1241.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1242.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1243.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1244.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1245.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1246.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1247.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1248.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1249.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1250.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1251.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1252.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1253.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1254.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1255.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1256.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1257.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1258.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1259.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1260.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1261.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1263.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1264.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1277.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1278.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1279.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1280.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1281.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1283.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1285.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1286.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1287.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1288.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1289.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1290.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1291.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1292.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1295.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1296.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1298.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1299.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1300.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1301.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1302.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1303.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1304.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1305.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1306.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1307.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1308.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1309.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1310.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1311.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1313.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1314.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1315.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1316.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1322.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1323.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1324.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1327.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1328.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1329.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1333.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1336.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1337.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1338.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1339.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1340.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1341.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1342.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1343.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1344.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1345.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1346.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1347.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1348.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1349.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1356.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1357.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1358.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1364.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1365.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1367.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1368.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1369.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1370.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1371.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1372.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1373.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1374.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1375.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1377.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1378.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1379.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1382.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1383.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1384.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1387.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1388.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1389.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1390.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1391.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1392.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1393.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1394.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1395.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1396.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1397.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1398.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1399.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1401.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1402.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1403.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1406.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1413.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 - 
+match01_paddle_output/frame_1414.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1416.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1417.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1418.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1421.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1422.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1423.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1424.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG O 1 
+match01_paddle_output/frame_1425.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1426.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 1 
+match01_paddle_output/frame_1427.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG O 2 
+match01_paddle_output/frame_1428.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1429.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1430.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1431.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1432.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1433.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1436.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1439.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1440.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1441.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1442.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1444.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1445.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1446.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1447.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1448.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1451.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1452.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1453.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1455.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1458.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1459.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1461.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1462.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1466.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG D 2 
+match01_paddle_output/frame_1467.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1468.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1469.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1470.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1471.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1472.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1473.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1474.jpg:TOMOKAZUHARIMOTO 0 1 UHONINSNG 0 2 
+match01_paddle_output/frame_1647.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1669.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1670.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1673.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1705.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1706.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1722.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1723.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1724.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1727.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1729.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1730.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1731.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1737.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1738.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1739.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1740.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1741.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1742.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1743.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1744.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1745.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1746.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1747.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1748.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1749.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1750.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1751.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1752.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1753.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1754.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1755.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1756.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1757.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1758.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1759.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1760.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1761.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1762.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1763.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1764.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1765.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1766.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1767.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1768.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1769.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1770.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1771.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1772.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1777.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1783.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1784.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG O 2 
+match01_paddle_output/frame_1785.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1786.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1787.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1788.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG O 2 
+match01_paddle_output/frame_1789.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG O 2 
+match01_paddle_output/frame_1790.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1791.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1792.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1793.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1794.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1795.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1796.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1797.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1798.jpg:TOMOKAZU HARIMOTO 0 1 - LIN SHIDONG 2 
+match01_paddle_output/frame_1799.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1800.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 2 
+match01_paddle_output/frame_1801.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1802.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1803.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1804.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1805.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1806.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1807.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1808.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1809.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1810.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1811.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1813.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1814.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1815.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1816.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1817.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1818.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1819.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1820.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1821.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1822.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1823.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1824.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1825.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1826.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1827.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1829.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1830.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1831.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1832.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1833.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1834.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1835.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1836.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1837.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1838.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1839.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1840.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1841.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1843.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1844.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1845.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1846.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1847.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1848.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1849.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1850.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1851.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1852.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1853.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1854.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1855.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1856.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1857.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1858.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1859.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1860.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1861.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1862.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1863.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1864.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1865.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1866.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1867.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1868.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1869.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1870.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1871.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1872.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1873.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1874.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1875.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1876.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1877.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1878.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1879.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1880.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1881.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1882.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1883.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1884.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1885.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1886.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1887.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1888.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_1889.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2042.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2043.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2044.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2045.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2046.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2047.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2048.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2049.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2050.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2051.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2052.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2053.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2054.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2055.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2056.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2057.jpg:TOMOKAZU HARIMOTO 0 - LIN SHIDONG 0 3 
+match01_paddle_output/frame_2059.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2060.jpg:TOMOKAZU HARIMOTO 0 - LIN SHIDONG 0 3 
+match01_paddle_output/frame_2061.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2062.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2063.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2064.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2065.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2066.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2067.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2068.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2069.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2070.jpg:TOMOKAZU HARIMOTO 1 LIN SHIDONG 0 3 4 
+match01_paddle_output/frame_2072.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2075.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2076.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2077.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2078.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2079.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2080.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2081.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2082.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2083.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2084.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2085.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2086.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2087.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2088.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2090.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2091.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2092.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2095.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2098.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2100.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2102.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2103.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2104.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2105.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2106.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2107.jpg:TOMOKAZU HARIMOTO O 1 LIN SHIDONG O 3 
+match01_paddle_output/frame_2108.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2109.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2110.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2111.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2175.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG A 3 
+match01_paddle_output/frame_2177.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG A 3 
+match01_paddle_output/frame_2178.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG A 3 
+match01_paddle_output/frame_2179.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG A 3 
+match01_paddle_output/frame_2187.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG A 3 
+match01_paddle_output/frame_2191.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG A 3 
+match01_paddle_output/frame_2192.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG A 3 
+match01_paddle_output/frame_2193.jpg:TOMOKAZU HARIMOTO 1 LIN SHIDONG O 3 A 
+match01_paddle_output/frame_2201.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG A 3 
+match01_paddle_output/frame_2202.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG A 3 
+match01_paddle_output/frame_2213.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG A 3 
+match01_paddle_output/frame_2214.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG A 3 
+match01_paddle_output/frame_2216.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG A 3 
+match01_paddle_output/frame_2218.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG A 3 
+match01_paddle_output/frame_2243.jpg:TOMOKAZU HARIMOTO 1 LIN SHIDONG O 3 A 
+match01_paddle_output/frame_2251.jpg:TOMOKAZU HARIMOTO 1 LIN SHIDONG O 3 A 
+match01_paddle_output/frame_2252.jpg:TOMOKAZU HARIMOTO 1 LIN SHIDONG O 3 A 
+match01_paddle_output/frame_2255.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2256.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2257.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2258.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2259.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2260.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2261.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2262.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2263.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2264.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2265.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2266.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2267.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2268.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 3 
+match01_paddle_output/frame_2270.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2271.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2272.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2273.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2274.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2275.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2276.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2277.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2278.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2280.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2282.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2283.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2284.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2285.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2286.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2287.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2288.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_2289.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2290.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_2291.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2292.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2293.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2294.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2295.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2296.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2297.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2298.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2299.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2300.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2301.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2302.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2303.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2304.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2305.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2306.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2307.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2308.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2309.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2310.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2311.jpg:TOMOKAZU HARIMOTO 1 LIN SHIDONG A 0 4 
+match01_paddle_output/frame_2312.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG A 4 
+match01_paddle_output/frame_2313.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2315.jpg:TOMOKAZU HARIMOTO 1 LIN SHIDONG A 0 4 
+match01_paddle_output/frame_2316.jpg:TOMOKAZU HARIMOTO 1 LIN SHIDONG A 0 4 
+match01_paddle_output/frame_2317.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2318.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2319.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2320.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2321.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2322.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2324.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2325.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2329.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2330.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2331.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2332.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2333.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2334.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2335.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2336.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2337.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2338.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2339.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2340.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2341.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2342.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2343.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2344.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2345.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2346.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2348.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2349.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2350.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2351.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2355.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2356.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2357.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2359.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2361.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2363.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2364.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2365.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2366.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2367.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2368.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2369.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2370.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2371.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2373.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2374.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2378.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2379.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2380.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2381.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2382.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2383.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2384.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2385.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2386.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 4 
+match01_paddle_output/frame_2390.jpg:TOMOKAZU HARIMOTO 0 1 LIN SHIDONG 0 A 
+match01_paddle_output/frame_2392.jpg:TOMOKAZUHARIMOTO 0 1 LIN SHIDONG 0 4 
