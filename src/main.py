@@ -10,9 +10,7 @@ def main():
     video_processing = VideoFrameIterator("match01.mp4", "match01_paddle_output", "stream", "full")
     score_identifier = TextIdentifier()
     
-    frame_count = 0
-    while frame_count < 1100: 
-        frame_count += 1
+    while True: 
         with open("match01_output.txt", "a") as file:
 
             try:
