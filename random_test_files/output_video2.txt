@@ -225,7 +225,7 @@ match02_paddle_output/frame_0784.jpg:TOGAMI/SHINOZUKA 0 0 LIN/LIN 0 1
 match02_paddle_output/frame_0785.jpg:TOGAMI/SHINOZUKA 0 0 LIN/LIN 0 1 
 match02_paddle_output/frame_0786.jpg:TOGAMI/SHINOZUKA 0 0 LIN/LIN 0 1 
 match02_paddle_output/frame_0787.jpg:TOGAMI/SHINOZUKA 0 0 LIN/LIN 0 1 
-match02_paddle_output/frame_0796.jpg:TOGAMI/SHINOZUKA O 0 LIN/LIN 0 1 
-match02_paddle_output/frame_0800.jpg:TOGAMI/SHINOZUKA 0 0 LIN/LIN 0 1 
-match02_paddle_output/frame_0801.jpg:TOGAMI/SHINOZUKA 0 0 LIN/LIN 0 1 
-match02_paddle_output/frame_0802.jpg:TOGAMI/SHINOZUKA 0 0 LIN/LIN 0 1 
+match02_paddle_output/frame_0796.jpg:TOGAMI/SHINOZUKA O 0 LIN/LIN 0 2 
+match02_paddle_output/frame_0800.jpg:TOGAMI/SHINOZUKA 0 0 LIN/LIN 0 2 
+match02_paddle_output/frame_0801.jpg:TOGAMI/SHINOZUKA 0 0 LIN/LIN 0 2 
+match02_paddle_output/frame_0802.jpg:TOGAMI/SHINOZUKA 0 0 LIN/LIN 0 2 
