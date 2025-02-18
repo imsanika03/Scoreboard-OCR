@@ -19,7 +19,7 @@ class ScoreboardAnylazer:
 
             self.output_path = output_path
         else: 
-            print("no output path")
+      
             self.output_path = self.input_path.replace(".txt", "") + "_post.txt"
 
     def anyalze_scores(self): 
@@ -46,11 +46,12 @@ class ScoreboardAnylazer:
     
             filepath = os.path.join(self.input_path, filename)
             if os.path.isfile(filepath):  # Ensure it's a file, not a directory
-                print("reading", filepath, "is not a file path")
+            
                 self.anyalze_scores_file(filepath)
-                print(self.previous_scores)
+             
             else: 
-                print(filepath, "is not a file path")
+                continue
+             
     
     def anyalze_scores_file(self, filename): 
         
@@ -64,18 +65,18 @@ class ScoreboardAnylazer:
                 parts = line.strip().split(":")
 
                 if len(parts) != 2:
-                    print("malformed line")
+
                     continue  # Skip malformed lines
 
                 frame_info, score_data = parts
                 frame_number = re.search(r"frame_(\d+)", frame_info)
                 if not frame_number:
-                    print("frame num not found")
+              
                     continue  # Skip if frame number isn't found
                 frame = frame_number.group(1)
 
                 score_tokens = score_data.split()
-                print(len(score_tokens))
+    
 
                 score_tokens = self.clean_tokens(score_tokens)
 
